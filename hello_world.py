@@ -1,2 +1,2 @@
-print("Program, let's say Hello world!")
+print("Hi Program, let's say Hello world!")
 print("Hello world.")
